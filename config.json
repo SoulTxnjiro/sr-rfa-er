@@ -1,0 +1,13 @@
+{
+  "params":
+  {
+    "local_sever": "True",
+    "local_uri": "mysql://root:@localhost/codingblog",
+    "prod_uri": "mysql://root:@localhost/codingblog",
+    "fb_url" : "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gt_url": "https://github.com",
+    "gmail-user": "tijilsharma@gmail.com",
+    "gmail-pass": "aftereffects"
+  }
+}
